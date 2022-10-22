@@ -34,11 +34,10 @@ If your research makes use of our data or results, please consider citing our pa
 
 **BIG-Bench Hard** ([_Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them_ (Suzgun et al., 2022)](https://arxiv.org/abs/2210.09261))
 ```
-@article{suzgun2022bbh,
-    title={Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them},
-  	author = {Suzgun, Mirac and Scales, Nathan and Schärli, Nathanael and Gehrmann, Sebastian and Tay, Yi and Chung, Hyung Won and Chowdhery, Aakanksha and Le, Quoc V. and Chi, Ed H. and Zhou, Denny and Wei, Jason},
-    journal={arXiv preprint arXiv:2210.09261},
-    url={https://arxiv.org/abs/2210.09261},
-    year={2022},
+@article{suzgun2022challenging,
+  title={Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them},
+  author={Suzgun, Mirac and Scales, Nathan and Sch{\"a}rli, Nathanael and Gehrmann, Sebastian and Tay, Yi and Chung, Hyung Won and Chowdhery, Aakanksha and Le, Quoc V and Chi, Ed H and Zhou, Denny and and Wei, Jason},
+  journal={arXiv preprint arXiv:2210.09261},
+  year={2022}
 }
 ```
